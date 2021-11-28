@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824219787852",
+    "firebase_url": "https://belajar-crud-firebase-9a624-default-rtdb.firebaseio.com",
+    "project_id": "belajar-crud-firebase-9a624",
+    "storage_bucket": "belajar-crud-firebase-9a624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824219787852:android:e1dc0eb10edfc9086bcae9",
+        "android_client_info": {
+          "package_name": "com.example.apk_crud_kontakno3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824219787852-3n7fpnqun9sgei60i3nh7coj9quf1k7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTf-JmERdzGtmHEU3p5Kx2RP9I47FTyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824219787852-3n7fpnqun9sgei60i3nh7coj9quf1k7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
